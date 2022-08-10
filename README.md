@@ -5,7 +5,7 @@
 * Moev silent “e” next to vowl it modifyz
 * Remoev dekorativ “e” liek in “principle” 
 * Ug-free speling, no moer “ough” wordz leik "thorough" or "rough"
-* Chanj dekorativ doubl konsonants to singl
+* Chanj dekorativ doubl consonants to singl
 * Chooz most popular dipthong for a particular sound. Exampl: chanj "ui" to "ie" in wordz like "guide".
 * The "YUH" sound is spelled out in words like "few" which becomes "fyew".
 * Chooze most popular sound for each consonant and use it uniformly.
