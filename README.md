@@ -8,6 +8,7 @@
 * Chanj dekorativ doubl konsonants to singl
 * Chooz most popular dipthong for a particular sound. Exampl: chanj "ui" to "ie" in wordz like "guide".
 * The "YUH" sound is spelled out in words like "few" which becomes "fyew".
-* "Ph" becomes "f".
+* Chooze most popular sound for each consonant and use it uniformly.
+* Change "ph" becomes "f".
 * Fix stranj wordz liek “yacht”
 * Subjekt to improevments and updaets evry 4 yearz
