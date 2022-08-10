@@ -10,5 +10,5 @@
 | note | noet |
 | store | stoer |
 | text | text |
-| title | titl |
+| title | tietl |
 | writer  | riter |
