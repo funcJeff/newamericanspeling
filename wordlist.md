@@ -3,8 +3,10 @@
 | be | bee |
 | bee | bee |
 | box | box |
+| did | did |
 | disk | disc |
 | is | iz |
+| miss | mis |
 | model | modl |
 | new | new |
 | note | noet |
