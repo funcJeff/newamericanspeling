@@ -16,8 +16,10 @@
 | model | modl |
 | name | naem |
 | new | new |
+| no | noe |
 | note | noet |
 | notes | noets |
+| now | now |
 | share | shaer |
 | shared | shaerd |
 | sheet | sheet |
