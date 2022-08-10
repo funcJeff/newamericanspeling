@@ -13,6 +13,8 @@
 | notes | noets |
 | sheet | sheet |
 | shoe | shue |
+| shoot | shuet |
+| shot | shot |
 | showing | shoeing |
 | store | stoer |
 | text | text |
