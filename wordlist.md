@@ -3,10 +3,12 @@
 | be | bee |
 | bee | bee |
 | bees | beez |
+| box | box |
 | cat | cat |
 | cats | cats |
-| box | box |
+| date | daet |
 | did | did |
+| died | died |
 | disk | disc |
 | is | iz |
 | miss | mis |
