@@ -2,6 +2,8 @@
 | --- | --- |
 | box | box |
 | disk | disc |
+| model | modl |
+| new | new |
 | note | noet |
 | store | stoer |
 | text | text |
