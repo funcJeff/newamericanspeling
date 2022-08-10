@@ -11,6 +11,7 @@
 | died | died |
 | disk | disc |
 | is | iz |
+| like | liec |
 | miss | mis |
 | model | modl |
 | name | naem |
