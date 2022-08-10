@@ -10,6 +10,7 @@
 | model | modl |
 | new | new |
 | note | noet |
+| notes | noets |
 | store | stoer |
 | text | text |
 | title | tietl |
