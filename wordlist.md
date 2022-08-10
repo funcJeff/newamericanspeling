@@ -2,6 +2,9 @@
 | --- | --- |
 | be | bee |
 | bee | bee |
+| bees | beez |
+| cat | cat |
+| cats | cats |
 | box | box |
 | did | did |
 | disk | disc |
