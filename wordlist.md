@@ -17,6 +17,8 @@
 | new | new |
 | note | noet |
 | notes | noets |
+| share | shaer |
+| shared | shaerd |
 | sheet | sheet |
 | shoe | shue |
 | shoot | shuet |
