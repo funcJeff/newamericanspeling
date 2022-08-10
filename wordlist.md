@@ -11,6 +11,9 @@
 | new | new |
 | note | noet |
 | notes | noets |
+| sheet | sheet |
+| shoe | shue |
+| showing | shoeing |
 | store | stoer |
 | text | text |
 | title | tietl |
