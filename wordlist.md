@@ -11,6 +11,7 @@
 | is | iz |
 | miss | mis |
 | model | modl |
+| name | naem |
 | new | new |
 | note | noet |
 | notes | noets |
