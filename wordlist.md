@@ -17,7 +17,7 @@
 | name | naem |
 | new | new |
 | no | noe |
-| noel | noeel |
+| noel | noewel |
 | note | noet |
 | notes | noets |
 | now | now |
