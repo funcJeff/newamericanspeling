@@ -12,4 +12,5 @@
 * Chooze most popular sound for each consonant and use it uniformly.
 * Change "ph" becomes "f".
 * Fix stranj wordz liec “yacht”
+* Foerin borowd wordz ar reespeld with slashes befoer and aftr. Exampl: "detente" becomes "/daetaunt/".
 * Subject to improevments and updaets evry 4 yearz
