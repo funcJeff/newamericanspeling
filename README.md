@@ -3,6 +3,7 @@
 * Fix very diferent soundz for a singl letter liek “c” and “s” haev
     * Consecuently, do not use the letters "k" and "q".
 * Moev silent “e” next to vowl it modifyz
+* No silent letters
 * Remoev dekorativ “e” liek in “principle” 
 * Ug-free speling, no moer “ough” wordz leik "thorough" or "rough"
 * Chanj dekorativ doubl consonants to singl
