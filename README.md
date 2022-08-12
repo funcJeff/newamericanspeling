@@ -1,9 +1,10 @@
 # Gieding Prinsiplz
 
-* Fix very diferent soundz for a singl letter liec “c” and “s” haev
-    * Consecuently, do not use the letters "k" and "q".
-* Moev silent “e” next to vowl it modifyz
-* No silent letters
+* Fix very diferent soundz for a singl leter liec “c” and “s” haev.
+* Do not use the letters "k" and "q".
+* Moev sielent “e” next to the vowl it modifyz.
+* Bee moer consistent with two vowl dipthongz.
+* No sielent leterz.
 * Remoev decorativ “e” liec in “principle” 
 * Ug-free speling, no moer “ough” wordz leic "thorough" or "rough"
 * Chanj decorativ doubl consonants to singl
