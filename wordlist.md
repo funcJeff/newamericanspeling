@@ -1,8 +1,8 @@
 | American English  | New American Speling |
 | --- | --- |
-| be | bee |
-| bee | bee |
-| bees | beez |
+| be | bea |
+| bee | bea |
+| bees | beaz |
 | box | box |
 | cat | cat |
 | cats | cats |
@@ -23,7 +23,7 @@
 | now | now |
 | share | shaer |
 | shared | shaerd |
-| sheet | sheet |
+| sheet | sheat |
 | shoe | shue |
 | shoot | shuet |
 | shot | shot |
@@ -32,3 +32,4 @@
 | text | text |
 | title | tietl |
 | writer  | riter |
+
