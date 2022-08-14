@@ -6,9 +6,11 @@
 | box | box |
 | cat | cat |
 | cats | cats |
+| create | creaaet |
 | date | daet |
 | did | did |
 | died | died |
+| disc | disc |
 | disk | disc |
 | face | faes |
 | foot | fut |
