@@ -16,5 +16,5 @@
 * Foerin borowd wordz ar reaspeld with slashes befoer and aftr. Exampl: "detente" becomes "/daetaunt/". Exampl: :"nom de guerre" becomes "/nom de gaer/".
 * Subject to improevments and updaets evry foer yearz
 * Eliminaet homonimz.
-    * When listening to speech, we know the difference between "hear" and "here" from context. Do not spell them differenly either.
+    * Wen lisening to speach, we noe the difrens betwean "hear" and "here" from context. Due not spel them difrentlea iether.
     
