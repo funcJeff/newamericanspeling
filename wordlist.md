@@ -13,9 +13,13 @@
 | disc | disc |
 | disk | disc |
 | face | faes |
+| foe | foe |
 | foot | fut |
+| go | goe |
 | goat | goet |
+| ghost | goest |
 | is | iz |
+| lie | lie |
 | like | liec |
 | miss | mis |
 | model | modl |
@@ -26,6 +30,9 @@
 | note | noet |
 | notes | noets |
 | now | now |
+| pie | pie |
+| pike | piec |
+| row | roe |
 | share | shaer |
 | shared | shaerd |
 | sheet | sheat |
