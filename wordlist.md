@@ -3,6 +3,7 @@
 | be | bea |
 | bee | bea |
 | bees | beaz |
+| book | book |
 | box | box |
 | cat | cat |
 | cats | cats |
@@ -14,7 +15,7 @@
 | disk | disc |
 | face | faes |
 | foe | foe |
-| foot | fut |
+| foot | foot |
 | go | goe |
 | goat | goet |
 | ghost | goest |
