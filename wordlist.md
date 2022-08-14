@@ -10,6 +10,7 @@
 | did | did |
 | died | died |
 | disk | disc |
+| face | faes |
 | is | iz |
 | like | liec |
 | miss | mis |
