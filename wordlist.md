@@ -32,6 +32,7 @@
 | now | now |
 | pie | pie |
 | pike | piec |
+| rough | ruf |
 | row | roe |
 | share | shaer |
 | shared | shaerd |
@@ -42,6 +43,7 @@
 | showing | shoeing |
 | store | stoer |
 | text | text |
+| thorough | thoroe | 
 | title | tietl |
 | writer  | riter |
 
