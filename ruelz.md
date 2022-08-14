@@ -7,6 +7,6 @@
 | a | cat, bat | æ | a | cat, bat |
 | e | bet, set | ɛ | e | bet, set
 | i | bit, hit | ɪ | i | bit, hit |
-| o |  | | | |
+| o | cot, not | ɒ | o | cot, not |
 | u |  | | | |
 | y |  | | | |
