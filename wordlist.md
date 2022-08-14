@@ -43,7 +43,6 @@
 | showing | shoeing |
 | store | stoer |
 | text | text |
-| thorough | thoroe | 
+| thorough | thuroe | 
 | title | tietl |
 | writer  | riter |
-
