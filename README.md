@@ -13,5 +13,8 @@
 * Chooze most popuelar sound for eech consonant and use it uniformly.
 * Change "ph" becomes "f".
 * Fix stranj wordz liec “yacht”
-* Foerin borowd wordz ar reespeld with slashes befoer and aftr. Exampl: "detente" becomes "/daetaunt/". Exampl: :"nom de guerre" becomes "/nom de gaer/".
-* Subject to improevments and updaets evry 4 yearz
+* Foerin borowd wordz ar reaspeld with slashes befoer and aftr. Exampl: "detente" becomes "/daetaunt/". Exampl: :"nom de guerre" becomes "/nom de gaer/".
+* Subject to improevments and updaets evry foer yearz
+* Eliminaet homonimz.
+    * When listening to speech, we know the difference between "hear" and "here" from context. Do not spell them differenly either.
+    
