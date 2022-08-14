@@ -14,6 +14,7 @@
 | disk | disc |
 | face | faes |
 | foot | fut |
+| goat | goet |
 | is | iz |
 | like | liec |
 | miss | mis |
