@@ -11,6 +11,7 @@
 | died | died |
 | disk | disc |
 | face | faes |
+| foot | fut |
 | is | iz |
 | like | liec |
 | miss | mis |
