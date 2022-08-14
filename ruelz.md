@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- |
 | a | cat, bat | æ | a | cat, bat |
 | e | bet, set | ɛ | e | bet, set
-| i |  | | | |
+| i | bit, hit | ɪ | i | bit, hit |
 | o |  | | | |
 | u |  | | | |
 | y |  | | | |
