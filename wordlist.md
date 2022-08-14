@@ -18,6 +18,7 @@
 | go | goe |
 | goat | goet |
 | ghost | goest |
+| homonym | homonim |
 | is | iz |
 | lie | lie |
 | like | liec |
