@@ -13,3 +13,5 @@ Like EEE-AAA in "create" and "deviate"
 I am not happy with "creaaet". It looks too crazie. Should it just be "creaet"? And "deviaet"? Well, no, I would have to pick one. No homophones.
 
 Should there be a digraph reprezenting the combo sound?
+
+Or EEE-UUU sounds line "beauty"?
