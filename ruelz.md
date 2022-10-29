@@ -16,12 +16,12 @@ Long vowlz becoem digrafs az the silent "e" is moevd next to the vowl it modifie
 
 | Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
 | --- | --- | --- | --- | --- |
-| a + silent "e" | late, cape | eɪ | ae | cat, bat |
-| ea, e + silent "e" | beat, seat, mete | iː | ea | beat, seat, meat |
-| i + silent "e" | bite, kite | aɪ | ie | biet, kiet |
-| o + silent "e" | note, wrote | oʊ | oe | noet, wroet |
+| a + silent e | late, cape | eɪ | ae | laet, caep |
+| ea, ee, e + silent e | beat, feet, mete | iː | ea | beat, feat, meat |
+| i + silent e | bite, kite | aɪ | ie | biet, kiet |
+| o + silent e | note, wrote | oʊ | oe | noet, wroet |
 | oo | foot, book | ʊ | oo | foot, book |
-| u + silent "e" | jute, flute | uː,u | ue | juet, fluet |
+| u + silent e | jute, flute | uː,u | ue | juet, fluet |
 
 ## Consonants
 
