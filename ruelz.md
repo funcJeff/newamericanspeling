@@ -23,6 +23,15 @@ Long vowlz becoem digrafs az the silent "e" is moevd next to the vowl it modifie
 | oo | foot, book | ʊ | oo | foot, book |
 | u + silent e | jute, flute | uː,u | ue | juet, fluet |
 
+
+### Other Vowlz
+
+Other vowlz ar also alwayz digrafs.
+
+| Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
+| --- | --- | --- | --- | --- |
+| oo | foot, book | ʊ | oo | foot, book |
+
 ## Consonants
 
 | Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
