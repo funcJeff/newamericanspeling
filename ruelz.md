@@ -20,7 +20,6 @@ Long vowlz becoem digrafs az the silent "e" is moevd next to the vowl it modifie
 | ea, ee, e + silent e | beat, feet, mete | iː | ea | beat, feat, meat |
 | i + silent e | bite, kite | aɪ | ie | biet, kiet |
 | o + silent e | note, wrote | oʊ | oe | noet, wroet |
-| oo | foot, book | ʊ | oo | foot, book |
 | u + silent e | jute, flute | uː,u | ue | juet, fluet |
 
 
