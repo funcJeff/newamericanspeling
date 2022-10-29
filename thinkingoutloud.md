@@ -17,3 +17,5 @@ Should there be a digraph reprezenting the combo sound?
 Or EEE-UUU sounds line "beauty"?
 
 I like this breakdown of vowles best: https://englishphonetics.net/english-phonetics-academy/the-20-vowels-sounds-in-English-with-examples.html
+
+ALso tire of clicking to this page: https://en.wikipedia.org/wiki/Help:IPA/English
