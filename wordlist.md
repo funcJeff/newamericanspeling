@@ -1,4 +1,4 @@
-| American English  | New American Speling |
+| Old American Spelling  | Nue American Speling |
 | --- | --- |
 | be | bea |
 | bee | bea |
