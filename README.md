@@ -1,6 +1,12 @@
 # Gieding Prinsiplz
 
-* Fix very difrent soundz for a singl leter liec “c” and “s” hav.
+* Fix inconsistenseas in speling American Inglish.
+* Creaet ae moer reazonabl foentic speling sistem.
+
+# Sumarie ov Changz
+
+* Fix difrent soundz for a singl leter.
+    * Exampl, “c” in Oeld American could haev bin pronounsd like "k" or "s".
 * Due not uez the leters "k" and "q".
 * Moev sielent “e” next to the vowl it modifiez.
 * Bea moer consistent with two vowl digrafs.
