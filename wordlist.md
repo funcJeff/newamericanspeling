@@ -27,6 +27,7 @@
 | like | liec |
 | miss | mis |
 | model | modl |
+| modal | moedl |
 | money | monea | 
 | name | naem |
 | new | nue |
