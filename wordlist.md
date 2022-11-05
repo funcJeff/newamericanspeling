@@ -14,12 +14,14 @@
 | disc | disc |
 | disk | disc |
 | face | faes |
+| few | fyue |
 | foe | foe |
 | foot | foot |
 | go | goe |
 | goat | goet |
 | ghost | goest |
 | homonym | homonim |
+| hue | hyue |
 | is | iz |
 | lie | lie |
 | like | liec |
@@ -27,7 +29,7 @@
 | model | modl |
 | money | monea | 
 | name | naem |
-| new | new |
+| new | nue |
 | no | noe |
 | noel | noewel |
 | note | noet |
@@ -48,4 +50,5 @@
 | text | text |
 | thorough | thuroe | 
 | title | tietl |
-| writer  | riter |
+| who | hue | 
+| writer | riter |
