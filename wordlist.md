@@ -1,55 +1,15 @@
-| Old American Spelling  | Nue American Speling |
-| --- | --- |
-| be | bea |
-| bee | bea |
-| bees | beaz |
-| book | book |
-| box | box |
-| cat | cat |
-| cats | cats |
-| create | creaaet |
-| date | daet |
-| did | did |
-| died | died |
-| disc | disc |
-| disk | disc |
-| face | faes |
-| few | fyue |
-| foe | foe |
-| foot | foot |
-| go | goe |
-| goat | goet |
-| ghost | goest |
-| homonym | homonim |
-| hue | hyue |
-| is | iz |
-| lie | lie |
-| like | liec |
-| miss | mis |
-| model | modl |
-| modal | moedl |
-| money | monea | 
-| name | naem |
-| new | nue |
-| no | noe |
-| noel | noewel |
-| note | noet |
-| notes | noets |
-| now | now |
-| pie | pie |
-| pike | piec |
-| rough | ruf |
-| row | roe |
-| share | shaer |
-| shared | shaerd |
-| sheet | sheat |
-| shoe | shue |
-| shoot | shuet |
-| shot | shot |
-| showing | shoeing |
-| store | stoer |
-| text | text |
-| thorough | thuroe | 
-| title | tietl |
-| who | hue | 
-| writer | riter |
+# a
+1. abowt
+1. abuv
+1. akros
+
+# b
+1. baebee
+1. bak
+1. bad
+
+# d
+
+1. dans
+1. danjerus
+
