@@ -1,3 +1,3 @@
-# Sumaree
+# sumaree
 
-Nue lang foer hyuemanz tue speek.
+nue lang foer hyuemanz tue speek.
