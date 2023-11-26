@@ -1,0 +1,3 @@
+- https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+- https://en.wikipedia.org/wiki/General_American_English
+- https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
