@@ -23,7 +23,7 @@ a b d e f g h i j k l m n o p r s t u v w x y z
 | oo | foot, book | ʊ | oo | foot, book |
 | a, ough | **a**ll, b**ough**t | ɔ | aw | awl, bawt | 
 | a, ah, o | father, bother, wasp | ɑː | aa | faathr, baathr, waasp |
-| er, or | winn**er**, doct**or** | ər | r | winr, doktr | 
+| er, or | winn**er**, doct**or** | ər | r | win_r_, dokt_r_ | 
 |  |  | ɔɪ | oy | boy, noyz, zhoys |
 
 ## konsonants
