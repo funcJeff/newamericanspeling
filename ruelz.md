@@ -1,35 +1,22 @@
 # Ruelz
 
-## Short Vowlz
+## Vowlz
 
-| Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
+| Amerikan | Amerikan Examplz | IPA | Nue Tek Speek | Nue Tek Speek Examplz |
 | --- | --- | --- | --- | --- |
-| a | cat, bat | æ | a | cat, bat |
-| e | bet, set | ɛ | e | bet, set
+| a | cat, bat | æ | a | kat, bat |
+| e | bet, set | ɛ | e | bet, set |
 | i | bit, hit | ɪ | i | bit, hit |
-| o | cot, not | ɒ | o | cot, not |
+| o | cot, not | ɒ | o | kot, not |
 | u | but, gut | ʌ | u | but, gut |
-
-### Long Vowlz
-
-Long vowlz becoem digrafs az the silent "e" is moevd next to the vowl it modifies.
-
-| Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
-| --- | --- | --- | --- | --- |
 | a + silent e | late, cape | eɪ | ae | laet, caep |
-| ea, ee, e + silent e | beat, feet, mete | iː | ea | beat, feat, meat |
+| ea, ee, e + silent e | beat, feet, mete | iː | ee | beet, feet, meet |
 | i + silent e | bite, kite | aɪ | ie | biet, kiet |
 | o + silent e | note, wrote | oʊ | oe | noet, wroet |
 | u + silent e | jute, flute | uː,u | ue | juet, fluet |
-
-
-### Other Vowlz
-
-Other vowlz ar also alwayz digrafs.
-
-| Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
-| --- | --- | --- | --- | --- |
 | oo | foot, book | ʊ | oo | foot, book |
+| a, ough | **a**ll, b**ough**t | ɔ | aw | awl, bawt | 
+| a, ah, o | father, bother, wasp | ɑː | aa | faathr, baathr, waasp |
 
 ## Consonants
 
