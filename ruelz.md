@@ -1,14 +1,16 @@
-# Ruelz
+# ruelz
 
-## Alfabet
+## alfabet
 
-24 letters:
+24 leterz:
 
 a b d e f g h i j k l m n o p r s t u v w x y z
 
-## Vowlz
+^oenlee loer kaes.
 
-| Amerikan | Amerikan Examplz | IPA | Nue Tek Speek | Nue Tek Speek Examplz |
+## vowlz
+
+| amerikan | amerikan examplz | i-p-a | nue speek | nue speek examplz |
 | --- | --- | --- | --- | --- |
 | a | cat, bat | æ | a | kat, bat |
 | e | bet, set | ɛ | e | bet, set |
@@ -23,12 +25,14 @@ a b d e f g h i j k l m n o p r s t u v w x y z
 | oo | foot, book | ʊ | oo | foot, book |
 | a, ough | **a**ll, b**ough**t | ɔ | aw | awl, bawt | 
 | a, ah, o | father, bother, wasp | ɑː | aa | faathr, baathr, waasp |
+| er, or | winn**er**, doct**or** | ər | r | winr, doktr | 
 
-## Consonants
+## konsonants
 
-| Oeld American | Oeld American Examplz | IPA | New American | New American Examplz |
+| amerikan | amerikan examplz | i-p-a | neu speek | nue speek |
 | --- | --- | --- | --- | --- |
 | b | **b**ag, ca**b** | b | b | **b**ag, ca**b** |
 | c | **c**ab, a**c**t | c | c |  **c**ab, a**c**t |
 | d | **d**og, ba**d** | d | d | **d**og, ba**d** |
 | f | lea**f**, **f**ix | f | f | lea**f**, **f**ix |
+| g | **g**olf, ba**g** | ɡ | g | **g**olf, ba**g** |
