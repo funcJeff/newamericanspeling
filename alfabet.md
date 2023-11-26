@@ -21,19 +21,19 @@ a b d e f g h i j k l m n o p r s t u v w x y z
 | o + silent e | note, wrote | oʊ | oe | noet, wroet |
 | u + silent e | jute, flute | uː,u | ue | juet, fluet |
 | oo | foot, book | ʊ | oo | foot, book |
-| a, ough | **a**ll, b**ough**t | ɔ | aw | awl, bawt | 
+| a, ough | *a*ll, b*ough*t | ɔ | aw | awl, bawt | 
 | a, ah, o | father, bother, wasp | ɑː | aa | faathr, baathr, waasp |
-| er, or | winn**er**, doct**or** | ər | r | win_r_, dokt_r_ | 
+| er, or | winn*er*, doct*or* | ər | r | win*r*, dokt*r* | 
 |  |  | ɔɪ | oy | boy, noyz, zhoys |
 
 ## konsonants
 
 | amerikan | amerikan examplz | i-p-a | neu speek | nue speek |
 | --- | --- | --- | --- | --- |
-| b | **b**ag, ca**b** | b | b | **b**ag, ka**b** |
-| c | **c**ab, a**c**t | c | k |  **k**ab, a**k**t |
-| d | **d**og, ba**d** | d | d | **d**og, ba**d** |
-| f | lea**f**, **f**ix | f | f | lee**f**, **f**ix |
-| g | **g**olf, ba**g** | ɡ | g | **g**olf, ba**g** |
-| j, g, ge | **j**oy, a**g**ile, a**ge** | d͡ʒ | j | **j**oy, a**j**iel, ae**j** |
-| ch | chat, teach, nature | t͡ʃ | ht | **ht**at, tee**ht**, nae**ht**r | 
+| b | *b*ag, ca*b* | b | b | *b*ag, ka*b* |
+| c | *c*ab, a*c*t | c | k |  *k*ab, a*k*t |
+| d | *d*og, ba*d* | d | d | *d*og, ba*d* |
+| f | lea*f*, *f*ix | f | f | lee*f*, *f*ix |
+| g | *g*olf, ba*g* | ɡ | g | *g*awlf, ba*g* |
+| j, g, ge | *j*oy, a*g*ile, a*ge* | d͡ʒ | j | *j*oy, a*j*iel, ae*j* |
+| ch, t | *ch*at, tea*ch*, na*t*ure | t͡ʃ | ht | *ht*at, tee*ht*, nae*ht*r | 
