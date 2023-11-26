@@ -6,9 +6,9 @@ a b d e f g h i j k l m n o p r s t u v w x y z
 
 oenlee loer kaes.
 
-## vowlz
+## vowl
 
-| amerikan | amerikan examplz | i-p-a | nue speek | nue speek examplz |
+| amerikan | amerikan exampl | i-p-a | nue speek | nue speek exampl |
 | --- | --- | --- | --- | --- |
 | a | cat, bat | æ | a | kat, bat |
 | e | bet, set | ɛ | e | bet, set |
@@ -24,11 +24,11 @@ oenlee loer kaes.
 | a, ough | *a*ll, b*ough*t | ɔ | aw | awl, bawt | 
 | a, ah, o | father, bother, wasp | ɑː | aa | faathr, baathr, waasp |
 | er, or | winn*er*, doct*or* | ər | r | win*r*, dokt*r* | 
-|  |  | ɔɪ | oy | boy, noyz, zhoys |
+| oy, oi | b*oy*s, n*oi*se, ch*oi*ce | ɔɪ | oy | b*oy*, n*oy*z, ht*oy*s |
 
-## konsonants
+## konsonant
 
-| amerikan | amerikan examplz | i-p-a | neu speek | nue speek |
+| amerikan | amerikan exampl | i-p-a | neu speek | nue speek |
 | --- | --- | --- | --- | --- |
 | b | *b*ag, ca*b* | b | b | *b*ag, ka*b* |
 | c | *c*ab, a*c*t | c | k |  *k*ab, a*k*t |
