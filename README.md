@@ -1,3 +1,3 @@
 # sumaree
 
-nue lang foer hyuemanz tue speek.
+nue lang foer hyueman tue speek.
