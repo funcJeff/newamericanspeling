@@ -1,5 +1,11 @@
 # Ruelz
 
+## Alfabet
+
+24 letters:
+
+a b d e f g h i j k l m n o p r s t u v w x y z
+
 ## Vowlz
 
 | Amerikan | Amerikan Examplz | IPA | Nue Tek Speek | Nue Tek Speek Examplz |
